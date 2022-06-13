@@ -2,3 +2,5 @@
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/
 >>Mongoose doc :
 https://mongoosejs.com/docs/
+>>Place to find ref about integrate mongoose with next:
+https://github.com/vercel/next.js/tree/canary/examples
