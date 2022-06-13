@@ -9,6 +9,9 @@ mongoose.connect(
     console.log(`Error:  ${e}`);
   }
 );
+run() 
+async function run() {
+  const user = await User.findByName({name:"siska"})
+  console.log(user);
 
-const user = new User({ name: "Siska", age: 23 });
-user.save().then(() => console.log("user save"));
+}
