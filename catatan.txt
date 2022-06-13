@@ -1,2 +1,4 @@
 >>>Website to get mongodb software locally:
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/
+>>Mongoose doc :
+https://mongoosejs.com/docs/
